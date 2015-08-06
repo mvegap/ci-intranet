@@ -1,0 +1,1 @@
+an intranet application build using codeigniter and HMVC to make a very modular framework for using as is or as a base for your own development.
